@@ -62,4 +62,4 @@ Here are the versions of the installed packages:
 To add this package to your project, you can use the following **NuGet** command:
 
 ```bash
-dotnet add package EntityFrameworkCore --version 8.0.0
+dotnet add package EntityFramework --version 8.0.0
